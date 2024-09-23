@@ -12,7 +12,6 @@ const config = {
 
   organizationName: "23clhelle", // Replace with your GitHub org/user name
   projectName: "claire-ui-portfolio", // Replace with your repo/project name
-
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
