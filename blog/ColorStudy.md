@@ -9,6 +9,7 @@ tags: []
 The Apple website has a very sleek interface. The following blog dives into what makes the interface look good and other potential color schemes it could use.
 
 The original interface:
+![plot](Images/OriginalApple.png)
 The original color scheme is pretty bland. Most of the interface is black, white, and gray with the exception of the image and some blue text indicating a link. So, this interface mostly follows the achromatic scheme. This scheme really helps to convey professionalism and sleekness from the company.
 
 My recreation of the interface:
