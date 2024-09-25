@@ -2,7 +2,7 @@
 title: Color Study
 slug: /ColorStudy-blog-post
 date: 2024-09-25T14:45:00Z
-tags:
+tags: []
 ---
 
 # Color Study Blog Post
