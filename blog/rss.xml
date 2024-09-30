@@ -4,10 +4,22 @@
         <title>My UI Portfolio Blog</title>
         <link>https://23clhelle.github.io/claire-ui-portfolio/blog</link>
         <description>My UI Portfolio Blog</description>
-        <lastBuildDate>Wed, 25 Sep 2024 14:45:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 15:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Design Systems Blog Post]]></title>
+            <link>https://23clhelle.github.io/claire-ui-portfolio/blog/design-systems-blog-post</link>
+            <guid>https://23clhelle.github.io/claire-ui-portfolio/blog/design-systems-blog-post</guid>
+            <pubDate>Mon, 30 Sep 2024 15:00:00 GMT</pubDate>
+            <description><![CDATA[Through reading several article from designsystems.com, I learned about a lot of different design strategies. One that really stuck out to me was an article about typography. This article discussed different ways to display text and what to consider when choosing how to do so. The article suggests to keep your list of font variations short. This really stuck out to me becuase I had never considered it to be an issue. But when I thought about it, it made a lot of sense that you should include few font types in your interface. I thought about other interfaces I've interacted with, and they follow this rule very well.]]></description>
+            <content:encoded><![CDATA[<p>Through reading several article from designsystems.com, I learned about a lot of different design strategies. One that really stuck out to me was an article about typography. This article discussed different ways to display text and what to consider when choosing how to do so. The article suggests to keep your list of font variations short. This really stuck out to me becuase I had never considered it to be an issue. But when I thought about it, it made a lot of sense that you should include few font types in your interface. I thought about other interfaces I've interacted with, and they follow this rule very well.</p>
+<p>I decided to create an interface that did not follow these rules.
+<img decoding="async" loading="lazy" alt="plot" src="https://23clhelle.github.io/claire-ui-portfolio/assets/images/Bad_Fonts_Image-6cda8560598e80327e8b7751d4e01045.jpg" width="1543" height="998" class="img_ev3q"></p>
+<p>This interface consists of multiple font types and sizes. Not only is each text box a different font type, but the hierarchy is not logical. The less important information is larger than the heading and utilizes all capitalized letters. This is a very poor way of designing an interface because the more important information should stick out.</p>]]></content:encoded>
+            <category>SketchInspo</category>
+        </item>
         <item>
             <title><![CDATA[Color Study]]></title>
             <link>https://23clhelle.github.io/claire-ui-portfolio/blog/ColorStudy-blog-post</link>
@@ -69,18 +81,6 @@ I think the original version is the most effective because it’s color scheme i
 <p>Stock trends Stock Photos, Royalty Free Stock trends Images | Depositphotos</p>
 <p>Sutton, Tina, and Bride M. Whelan. The Complete Color Harmony, Pantone Edition: Expert Color Information for Professional Color Results. Rockport Publishers, 2004.﻿</p>]]></content:encoded>
             <category>WordJournal</category>
-        </item>
-        <item>
-            <title><![CDATA[Design Systems Blog Post]]></title>
-            <link>https://23clhelle.github.io/claire-ui-portfolio/blog/design-systems-blog-post</link>
-            <guid>https://23clhelle.github.io/claire-ui-portfolio/blog/design-systems-blog-post</guid>
-            <pubDate>Mon, 26 Aug 2024 14:30:00 GMT</pubDate>
-            <description><![CDATA[Through reading several article from designsystems.com, I learned about a lot of different design strategies. One that really stuck out to me was an article about typography. This article discussed different ways to display text and what to consider when choosing how to do so. The article suggests to keep your list of font variations short. This really stuck out to me becuase I had never considered it to be an issue. But when I thought about it, it made a lot of sense that you should include few font types in your interface. I thought about other interfaces I've interacted with, and they follow this rule very well.]]></description>
-            <content:encoded><![CDATA[<p>Through reading several article from designsystems.com, I learned about a lot of different design strategies. One that really stuck out to me was an article about typography. This article discussed different ways to display text and what to consider when choosing how to do so. The article suggests to keep your list of font variations short. This really stuck out to me becuase I had never considered it to be an issue. But when I thought about it, it made a lot of sense that you should include few font types in your interface. I thought about other interfaces I've interacted with, and they follow this rule very well.</p>
-<p>I decided to create an interface that did not follow these rules.
-<img decoding="async" loading="lazy" alt="plot" src="https://23clhelle.github.io/claire-ui-portfolio/assets/images/Bad_Fonts_Image-6cda8560598e80327e8b7751d4e01045.jpg" width="1543" height="998" class="img_ev3q"></p>
-<p>This interface consists of multiple font types and sizes. Not only is each text box a different font type, but the hierarchy is not logical. The less important information is larger than the heading and utilizes all capitalized letters. This is a very poor way of designing an interface because the more important information should stick out.</p>]]></content:encoded>
-            <category>SketchInspo</category>
         </item>
         <item>
             <title><![CDATA[Example Blog Post]]></title>
