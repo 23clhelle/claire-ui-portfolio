@@ -2,7 +2,7 @@
 title: Colors 1 Blog Post
 slug: /colors1-blog-post
 date: 2024-09-19T15:30:00Z
-tags: [WordJournal]
+tags: [wordjournal]
 ---
 
 # Colors 1 Blog Post
