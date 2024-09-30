@@ -15,8 +15,8 @@ I decided to create an interface that did not follow these rules.
 This interface consists of multiple font types and sizes. Each text box has a different font type, and the hierarchy is not logical. The less critical information is larger than the heading and utilizes all capitalized letters. This is a very poor interface design because the more important information should stick out.
 
 
-Articles:
-https://www.designsystems.com/how-a-small-team-built-figma-dot-coms-design-system/
-https://www.designsystems.com/space-grids-and-layouts/
-https://www.designsystems.com/typography-guides/
+Articles: \
+https://www.designsystems.com/how-a-small-team-built-figma-dot-coms-design-system/ \
+https://www.designsystems.com/space-grids-and-layouts/ \
+https://www.designsystems.com/typography-guides/ \
 https://www.designsystems.com/guide-to-content-strategy-in-design-systems/
