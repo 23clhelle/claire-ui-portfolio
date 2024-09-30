@@ -1,7 +1,7 @@
 ---
 title: Design Systems Blog Post
 slug: /design-systems-blog-post
-date: 2024-08-26T14:30:00Z
+date: 2024-09-30T15:00:00Z
 tags: [SketchInspo]
 ---
 

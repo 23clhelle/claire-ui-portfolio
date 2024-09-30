@@ -2,7 +2,7 @@
 title: Aesthetic Design Blog Post
 slug: /AestheticDesign-blog-post
 date: 2024-09-19T15:30:00Z
-tags: [ApproximateAnalogy]
+tags: [approximateanalogy]
 ---
 
 # Aesthetic Design Blog Post
