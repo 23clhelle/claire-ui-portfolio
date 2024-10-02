@@ -4,10 +4,32 @@
         <title>My UI Portfolio Blog</title>
         <link>https://23clhelle.github.io/claire-ui-portfolio/blog</link>
         <description>My UI Portfolio Blog</description>
-        <lastBuildDate>Mon, 30 Sep 2024 15:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 12:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Finding Inspiration]]></title>
+            <link>https://23clhelle.github.io/claire-ui-portfolio/blog/FindingInspiration-blog-post</link>
+            <guid>https://23clhelle.github.io/claire-ui-portfolio/blog/FindingInspiration-blog-post</guid>
+            <pubDate>Wed, 02 Oct 2024 12:30:00 GMT</pubDate>
+            <description><![CDATA[For this blog, I visited the Sheldon Museum of Art in Lincoln, Nebraska. After viewing many different pieces of art, I was struck with inspiration when I saw the Barns and Farms piece.]]></description>
+            <content:encoded><![CDATA[<p>For this blog, I visited the Sheldon Museum of Art in Lincoln, Nebraska. After viewing many different pieces of art, I was struck with inspiration when I saw the Barns and Farms piece.
+<img decoding="async" loading="lazy" alt="plot" src="https://23clhelle.github.io/claire-ui-portfolio/assets/images/Barns_And_Farms-edbd7343c8d43186faa692efbee82216.jpeg" width="2351" height="1997" class="img_ev3q"></p>
+<p>Barns and Farms is an oil painting on canvas created in 1983. Richard Diebenkorn created the background of this piece, while Ed Ruscha added the text onto the top. The color blocks in the background represent the ocean and sand from the Los Angeles neighborhood where Diebenkorn grew up. Ruscha added the large, capital block letters to depict the agricultural structures he saw when driving from Oklahoma to California.</p>
+<p>Color: <br>
+<!-- -->Most of the colors’ values are darker, which is nice because it makes the lighter values stand out. These lighter values do a great job of making the painting look more realistic and like there is real light reflecting off of it. I also really like the color choices of blue and orange/yellow because they complement each other very well. Proven because they are true complimentary colors.<br>
+<a href="https://www.getty.edu/education/teachers/building_lessons/formal_analysis.html" target="_blank" rel="noopener noreferrer">https://www.getty.edu/education/teachers/building_lessons/formal_analysis.html</a></p>
+<p>Textual: <br>
+<!-- -->Barns and Farms provides text that serves a clear purpose. The three words chosen, barns and farms, to be included are simple but do a great job of conveying the message about agriculture. I like that they are about agricultural structures while also rhyming. The harsh block letters are a great stylistic choice because they stand out while being blocky, like agricultural buildings (barns and farms). <br>
+<a href="https://jerwoodvisualarts.org/art-theory-glossary/textual-analysis-in-art/" target="_blank" rel="noopener noreferrer">https://jerwoodvisualarts.org/art-theory-glossary/textual-analysis-in-art/</a></p>
+<p>Visual Balance: <br>
+<!-- -->My eye is immediately drawn to the word barn because that is the largest color contrast of white on dark blue. After that, my eyes are drawn to the yellow/orange color because it is brighter and sticks out since the majority of the piece is dark. I think this does a great job of pointing out the two most important parts of the piece that help convey the meaning. <br>
+<a href="https://www.johnlovett.com/balance" target="_blank" rel="noopener noreferrer">https://www.johnlovett.com/balance</a></p>
+<p><img decoding="async" loading="lazy" alt="plot" src="https://23clhelle.github.io/claire-ui-portfolio/assets/images/Art_Interface_Sketch-175ef7de695adedcf4508c64d79ca58a.jpeg" width="3291" height="2113" class="img_ev3q">
+This is the UI I decided to sketch based on the Barns and Farms art piece. This UI has mostly dark backgrounds except for where the heading is. I made the heading lighter to draw the eyes' attention to that spot as the painting did. I also created it so that the most contrast was the bold black text on the light yellow background because that also draws the viewer's attention to that spot. I added wobbly lines separating the heading and footer from the body to reflect the natural curvature of a landscape. The purpose of this interface is to provide information about a landscaping company, so making it look like a landscape, helps convey that purpose. These design choices were all based on the aspects I noticed from the Barns and Farms painting. This UI could be used on just about any device, but given the shape I sketched the interface, it would match best with a computer screen.</p>
+<p>Throughout this process, I learned a lot about design. One noteworthy aspect was the connection between art and interface design. I never thought about how web pages and apps are a form of art. When designing these interfaces, the designer has to think about the aspects of art that they can incorporate to better communicate their message.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Design Systems Blog Post]]></title>
             <link>https://23clhelle.github.io/claire-ui-portfolio/blog/design-systems-blog-post</link>
