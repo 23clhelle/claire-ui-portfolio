@@ -4,10 +4,21 @@
         <title>My UI Portfolio Blog</title>
         <link>https://23clhelle.github.io/claire-ui-portfolio/blog</link>
         <description>My UI Portfolio Blog</description>
-        <lastBuildDate>Wed, 02 Oct 2024 12:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 15:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Navigation & Values Blog Post]]></title>
+            <link>https://23clhelle.github.io/claire-ui-portfolio/blog/navigation-and-values-blog-post</link>
+            <guid>https://23clhelle.github.io/claire-ui-portfolio/blog/navigation-and-values-blog-post</guid>
+            <pubDate>Mon, 07 Oct 2024 15:00:00 GMT</pubDate>
+            <description><![CDATA[This week, from Don’t Make Me Think, I read about navigation. I also read about values from Colin Brek’s blog. What really stuck out to me this week was the navigation hierarchy. When I think about websites I typically use, there’s normally a navigation bar at the top with subsections within it. However, once you navigate to a subsection, this hierarchy is no longer displayed, which is exactly what was pointed out in the chapter. While I find this inconsistency to be very frustrating, I can understand why it’s less important. Users will spend the majority of time on the pages towards the top of the hierarchy, making the lower levels less important.]]></description>
+            <content:encoded><![CDATA[<p>This week, from Don’t Make Me Think, I read about navigation. I also read about values from Colin Brek’s blog. What really stuck out to me this week was the navigation hierarchy. When I think about websites I typically use, there’s normally a navigation bar at the top with subsections within it. However, once you navigate to a subsection, this hierarchy is no longer displayed, which is exactly what was pointed out in the chapter. While I find this inconsistency to be very frustrating, I can understand why it’s less important. Users will spend the majority of time on the pages towards the top of the hierarchy, making the lower levels less important.</p>
+<img src="https://23clhelle.github.io/claire-ui-portfolio/assets/images/Navigation_Img-0291050389dbe12ea7e104c465f6a68f.jpg">
+<p>Krug, Steve. Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability. 3rd ed., New Riders, 2013.</p>]]></content:encoded>
+            <category>FreeForm</category>
+        </item>
         <item>
             <title><![CDATA[Finding Inspiration]]></title>
             <link>https://23clhelle.github.io/claire-ui-portfolio/blog/FindingInspiration-blog-post</link>
