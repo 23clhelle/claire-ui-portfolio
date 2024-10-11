@@ -8,8 +8,7 @@ permalink: /contact
 
 I would love to hear from you!
 
-- **Email**: [contact@yourdomain.com](mailto:contact@yourdomain.com)
-- **LinkedIn**: [linkedin.com/linkedin-website](https://linkedin.com/linkedin-website)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-github-username)
+- **Email**: [claire.hellebusch@gmail.com](mailto:contact@gmail.com)
+- **LinkedIn**: [www.linkedin.com/in/claire-hellebusch](https://linkedin.com/linkedin-website)
 
-Feel free to drop a message or connect with me on social media.
+Feel free to send me an email or connect with me on LinkedIn.

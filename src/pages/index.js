@@ -18,13 +18,12 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}></div>
-        <h3>Blog Posts</h3>
         <br></br>
         <Link
           className="button button--secondary button--lg"
-          to="/blog/example-blog-post"
+          to="/blog"
         >
-          Example Blog
+          Blog Posts
         </Link>
       </div>
     </header>
@@ -40,9 +39,10 @@ export default function Home() {
     >
       <HomepageHeader />
       <main>
-        <div className="container">
+        {/* <div className="container"> 
           <HomepageFeatures />
         </div>
+        */}
       </main>
     </Layout>
   );
