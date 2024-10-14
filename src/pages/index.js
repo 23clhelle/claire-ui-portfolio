@@ -16,6 +16,13 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
+        
+        <img
+          src="img/UI_Headshot.jpg" 
+          alt="My Headshot"
+          style={{ width: '200px', height: '200px', borderRadius: '50%' }} // Example inline styles
+        />
+
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}></div>
         <br></br>

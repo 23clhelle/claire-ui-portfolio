@@ -38,8 +38,8 @@
 }
 
 img {
-  border-radius: 50%; /* This makes the image a circle */
-  object-fit: cover; /* Ensures the image is cropped properly within the circle */
+  border-radius: 35%; 
+  object-fit: cover; 
 }
 
 
