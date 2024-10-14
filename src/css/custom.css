@@ -37,5 +37,11 @@
   box-shadow: 1px 3px 10px 2px #0003;
 }
 
+img {
+  border-radius: 50%; /* This makes the image a circle */
+  object-fit: cover; /* Ensures the image is cropped properly within the circle */
+}
+
+
 
 
