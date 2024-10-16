@@ -21,3 +21,9 @@
   align-items: center;
   justify-content: center;
 }
+
+.corner-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

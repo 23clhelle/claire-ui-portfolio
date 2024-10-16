@@ -13,17 +13,18 @@ function HomepageHeader() {
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
+      <div className="homepage-title">
+        <div className="me">
+          <Heading as="h1" className="hero__title">
+            {siteConfig.title}
+          </Heading>
         
-        <img
-          src="img/UI_Headshot.jpg" 
-          alt="My Headshot"
-          style={{ width: '300px', borderRadius: '25%' }} // Example inline styles
-        />
-
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        </div>
+
+
+        <img className="homepage-img" src={require('@site/static/img/UI_Headshot.jpg').default} alt="Headshot" />
+        </div>
 
         <div className={styles.buttons}></div>
         <br></br>
