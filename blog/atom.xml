@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://23clhelle.github.io/claire-ui-portfolio/blog</id>
     <title>Claire's UI Portfolio Blog</title>
-    <updated>2024-10-07T15:00:00.000Z</updated>
+    <updated>2024-10-15T15:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://23clhelle.github.io/claire-ui-portfolio/blog"/>
     <subtitle>Claire's UI Portfolio Blog</subtitle>
     <icon>https://23clhelle.github.io/claire-ui-portfolio/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Portfolios & Design Narratives Blog Post]]></title>
+        <id>https://23clhelle.github.io/claire-ui-portfolio/blog/Portfolios&amp;DesignNarratives-blog-post</id>
+        <link href="https://23clhelle.github.io/claire-ui-portfolio/blog/Portfolios&amp;DesignNarratives-blog-post"/>
+        <updated>2024-10-15T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Word: Whitespace]]></summary>
+        <content type="html"><![CDATA[<p>Word: Whitespace</p>
+<p>This reading made me think a lot about whitespace. Whitespace is a very important tool when it comes to design and I think these portfolios make great use of it. Using whitespace helps direct the eye to the important things on the screen. It also allows for a less overwhelming experience. This article has shown me that I need to be sure to utilize whitespace intentially and percisely in my portfolio. Below I included an image of a portfolio example from the website that utilizes a large amount pf whitespace in a great way.</p>
+<img src="https://23clhelle.github.io/claire-ui-portfolio/assets/images/PortfolioExample-b125b77f199a1f1c80bb4a0c1022c11d.png">]]></content>
+        <category label="WordJournal" term="WordJournal"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Navigation & Values Blog Post]]></title>
         <id>https://23clhelle.github.io/claire-ui-portfolio/blog/navigation-and-values-blog-post</id>
