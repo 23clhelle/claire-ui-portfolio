@@ -20,7 +20,7 @@ function HomepageHeader() {
         <img
           src="img/UI_Headshot.jpg" 
           alt="My Headshot"
-          style={{ width: '200px', height: '200px', borderRadius: '50%' }} // Example inline styles
+          style={{ width: '300px', borderRadius: '25%' }} // Example inline styles
         />
 
         <p className="hero__subtitle">{siteConfig.tagline}</p>
