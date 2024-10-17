@@ -4,10 +4,21 @@
         <title>Claire's UI Portfolio Blog</title>
         <link>https://23clhelle.github.io/claire-ui-portfolio/blog</link>
         <description>Claire's UI Portfolio Blog</description>
-        <lastBuildDate>Tue, 15 Oct 2024 15:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 09:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Mockups Blog Post]]></title>
+            <link>https://23clhelle.github.io/claire-ui-portfolio/blog/Mockups-blog-post</link>
+            <guid>https://23clhelle.github.io/claire-ui-portfolio/blog/Mockups-blog-post</guid>
+            <pubDate>Thu, 17 Oct 2024 09:30:00 GMT</pubDate>
+            <description><![CDATA[Something that really stuck out to me when I was doing this reading was the Big Bang Theory of Web Design. This specifically came from chapter 7 of Don't Make Me Think. I found this really interesting because the way it describes the speed at which users determine if a site is good enough. Immediately from first impressions, users determine if they like a design or not. And their impression of the site won't change if they look at even more. I find this really facinating because I wouldn't have expected that even though I know from my own experience that I do the same thing when opening a new site.]]></description>
+            <content:encoded><![CDATA[<p>Something that really stuck out to me when I was doing this reading was the Big Bang Theory of Web Design. This specifically came from chapter 7 of Don't Make Me Think. I found this really interesting because the way it describes the speed at which users determine if a site is good enough. Immediately from first impressions, users determine if they like a design or not. And their impression of the site won't change if they look at even more. I find this really facinating because I wouldn't have expected that even though I know from my own experience that I do the same thing when opening a new site.</p>
+<img src="https://23clhelle.github.io/claire-ui-portfolio/assets/images/Impression-9974015010fb698ed21c44aca37754c3.jpg">
+<p>Krug, Steve. Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability. 3rd ed., New Riders, 2013.</p>]]></content:encoded>
+            <category>FreeForm</category>
+        </item>
         <item>
             <title><![CDATA[Feedback Workshop Blog Post]]></title>
             <link>https://23clhelle.github.io/claire-ui-portfolio/blog/FeedbackWorkshop-blog-post</link>

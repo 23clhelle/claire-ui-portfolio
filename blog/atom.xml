@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://23clhelle.github.io/claire-ui-portfolio/blog</id>
     <title>Claire's UI Portfolio Blog</title>
-    <updated>2024-10-15T15:30:00.000Z</updated>
+    <updated>2024-10-17T09:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://23clhelle.github.io/claire-ui-portfolio/blog"/>
     <subtitle>Claire's UI Portfolio Blog</subtitle>
     <icon>https://23clhelle.github.io/claire-ui-portfolio/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Mockups Blog Post]]></title>
+        <id>https://23clhelle.github.io/claire-ui-portfolio/blog/Mockups-blog-post</id>
+        <link href="https://23clhelle.github.io/claire-ui-portfolio/blog/Mockups-blog-post"/>
+        <updated>2024-10-17T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Something that really stuck out to me when I was doing this reading was the Big Bang Theory of Web Design. This specifically came from chapter 7 of Don't Make Me Think. I found this really interesting because the way it describes the speed at which users determine if a site is good enough. Immediately from first impressions, users determine if they like a design or not. And their impression of the site won't change if they look at even more. I find this really facinating because I wouldn't have expected that even though I know from my own experience that I do the same thing when opening a new site.]]></summary>
+        <content type="html"><![CDATA[<p>Something that really stuck out to me when I was doing this reading was the Big Bang Theory of Web Design. This specifically came from chapter 7 of Don't Make Me Think. I found this really interesting because the way it describes the speed at which users determine if a site is good enough. Immediately from first impressions, users determine if they like a design or not. And their impression of the site won't change if they look at even more. I find this really facinating because I wouldn't have expected that even though I know from my own experience that I do the same thing when opening a new site.</p>
+<img src="https://23clhelle.github.io/claire-ui-portfolio/assets/images/Impression-9974015010fb698ed21c44aca37754c3.jpg">
+<p>Krug, Steve. Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability. 3rd ed., New Riders, 2013.</p>]]></content>
+        <category label="FreeForm" term="FreeForm"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feedback Workshop Blog Post]]></title>
         <id>https://23clhelle.github.io/claire-ui-portfolio/blog/FeedbackWorkshop-blog-post</id>
