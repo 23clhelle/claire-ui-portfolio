@@ -4,10 +4,22 @@
         <title>Claire's UI Portfolio Blog</title>
         <link>https://23clhelle.github.io/claire-ui-portfolio/blog</link>
         <description>Claire's UI Portfolio Blog</description>
-        <lastBuildDate>Thu, 17 Oct 2024 09:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 20:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Debriefing User Tests Blog Post]]></title>
+            <link>https://23clhelle.github.io/claire-ui-portfolio/blog/debriefing-user-tests-blog-post</link>
+            <guid>https://23clhelle.github.io/claire-ui-portfolio/blog/debriefing-user-tests-blog-post</guid>
+            <pubDate>Wed, 23 Oct 2024 20:00:00 GMT</pubDate>
+            <description><![CDATA[When reading this section of Don't Make Me Think, I learned a lot about the importance of user testing and how to conduct it. Yet with that, it's vital to know that user testing isn't such a big deal to the point where you put it off in the beginning stages. The main part that I found noteworthy though was understanding why you need user tests. When you are the creator of anything, eventually you forget what other people will think of it when they see it for the first time. So, when you are creating an interface, you will forget that the purpose of some buttons or certain navigations isn't obvious, So it's important to see how a user would interact with your interface without any prior knowledge.]]></description>
+            <content:encoded><![CDATA[<p>When reading this section of Don't Make Me Think, I learned a lot about the importance of user testing and how to conduct it. Yet with that, it's vital to know that user testing isn't such a big deal to the point where you put it off in the beginning stages. The main part that I found noteworthy though was understanding why you need user tests. When you are the creator of anything, eventually you forget what other people will think of it when they see it for the first time. So, when you are creating an interface, you will forget that the purpose of some buttons or certain navigations isn't obvious, So it's important to see how a user would interact with your interface without any prior knowledge.</p>
+<img src="https://23clhelle.github.io/claire-ui-portfolio/assets/images/UserTest-b003944a27337c4ed51ce54eb582cefb.png">
+<p><br>
+<!-- -->Krug, Steve. Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability. 3rd ed., New Riders, 2013.</p>]]></content:encoded>
+            <category>FreeForm</category>
+        </item>
         <item>
             <title><![CDATA[Mockups Blog Post]]></title>
             <link>https://23clhelle.github.io/claire-ui-portfolio/blog/Mockups-blog-post</link>
