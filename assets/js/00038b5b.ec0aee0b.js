@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2327],{9974:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/claire-ui-portfolio/blog/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":12,"previousPage":"/claire-ui-portfolio/blog","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

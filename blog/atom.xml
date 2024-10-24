@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://23clhelle.github.io/claire-ui-portfolio/blog</id>
     <title>Claire's UI Portfolio Blog</title>
-    <updated>2024-10-23T20:00:00.000Z</updated>
+    <updated>2024-10-23T20:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://23clhelle.github.io/claire-ui-portfolio/blog"/>
     <subtitle>Claire's UI Portfolio Blog</subtitle>
     <icon>https://23clhelle.github.io/claire-ui-portfolio/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[User Testing 101 Blog Post]]></title>
+        <id>https://23clhelle.github.io/claire-ui-portfolio/blog/user-testing-101-blog-post</id>
+        <link href="https://23clhelle.github.io/claire-ui-portfolio/blog/user-testing-101-blog-post"/>
+        <updated>2024-10-23T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this text, I learned that when working with a team of different employees, it takes a lot of work to make specific decisions about design choices. Each person prefers a particular element/design, and it is really difficult to change their mind. So, when these issues arise, the only may to come to a conclusion is to test it with users. You must determine if the specific element makes sense with the design, use case, and context. Without testing, the debate within the team will drag on, and it will be impossible to ever come to an agreement.]]></summary>
+        <content type="html"><![CDATA[<p>In this text, I learned that when working with a team of different employees, it takes a lot of work to make specific decisions about design choices. Each person prefers a particular element/design, and it is really difficult to change their mind. So, when these issues arise, the only may to come to a conclusion is to test it with users. You must determine if the specific element makes sense with the design, use case, and context. Without testing, the debate within the team will drag on, and it will be impossible to ever come to an agreement.</p>
+<img src="https://23clhelle.github.io/claire-ui-portfolio/assets/images/Disagree-e92adb07d32c9e0b2f2a68e82d70e498.jpg">
+<p><br>
+<!-- -->Krug, Steve. Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability. 3rd ed., New Riders, 2013.</p>]]></content>
+        <category label="FreeForm" term="FreeForm"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debriefing User Tests Blog Post]]></title>
         <id>https://23clhelle.github.io/claire-ui-portfolio/blog/debriefing-user-tests-blog-post</id>

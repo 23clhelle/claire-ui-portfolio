@@ -4,10 +4,22 @@
         <title>Claire's UI Portfolio Blog</title>
         <link>https://23clhelle.github.io/claire-ui-portfolio/blog</link>
         <description>Claire's UI Portfolio Blog</description>
-        <lastBuildDate>Wed, 23 Oct 2024 20:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 20:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[User Testing 101 Blog Post]]></title>
+            <link>https://23clhelle.github.io/claire-ui-portfolio/blog/user-testing-101-blog-post</link>
+            <guid>https://23clhelle.github.io/claire-ui-portfolio/blog/user-testing-101-blog-post</guid>
+            <pubDate>Wed, 23 Oct 2024 20:30:00 GMT</pubDate>
+            <description><![CDATA[In this text, I learned that when working with a team of different employees, it takes a lot of work to make specific decisions about design choices. Each person prefers a particular element/design, and it is really difficult to change their mind. So, when these issues arise, the only may to come to a conclusion is to test it with users. You must determine if the specific element makes sense with the design, use case, and context. Without testing, the debate within the team will drag on, and it will be impossible to ever come to an agreement.]]></description>
+            <content:encoded><![CDATA[<p>In this text, I learned that when working with a team of different employees, it takes a lot of work to make specific decisions about design choices. Each person prefers a particular element/design, and it is really difficult to change their mind. So, when these issues arise, the only may to come to a conclusion is to test it with users. You must determine if the specific element makes sense with the design, use case, and context. Without testing, the debate within the team will drag on, and it will be impossible to ever come to an agreement.</p>
+<img src="https://23clhelle.github.io/claire-ui-portfolio/assets/images/Disagree-e92adb07d32c9e0b2f2a68e82d70e498.jpg">
+<p><br>
+<!-- -->Krug, Steve. Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability. 3rd ed., New Riders, 2013.</p>]]></content:encoded>
+            <category>FreeForm</category>
+        </item>
         <item>
             <title><![CDATA[Debriefing User Tests Blog Post]]></title>
             <link>https://23clhelle.github.io/claire-ui-portfolio/blog/debriefing-user-tests-blog-post</link>
