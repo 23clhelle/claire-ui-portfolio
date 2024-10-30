@@ -4,10 +4,39 @@
         <title>Claire's UI Portfolio Blog</title>
         <link>https://23clhelle.github.io/claire-ui-portfolio/blog</link>
         <description>Claire's UI Portfolio Blog</description>
-        <lastBuildDate>Wed, 23 Oct 2024 20:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 20:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Inclusive Design 2 Blog Post]]></title>
+            <link>https://23clhelle.github.io/claire-ui-portfolio/blog/inclusive-design-2-blog-post</link>
+            <guid>https://23clhelle.github.io/claire-ui-portfolio/blog/inclusive-design-2-blog-post</guid>
+            <pubDate>Tue, 29 Oct 2024 20:30:00 GMT</pubDate>
+            <description><![CDATA[In this chapter, one important piece of information in discusses is the four different kinds of constraints. Physical constraints limit the number of potential actions. They are most effective when they are easy to see and interpret because you want to prevent the user from even attempting the action. Cultural constraints are defined by the user’s culture. They determine what actions make sense given their cultural experience. Culture is constantly evolving, and so are constraints. Semantic constraints are defined by the meaning of the situation controlling potential actions. They rely on users’ knowledge of the world. These constraints can also change with time. Logical constraints are defined by what makes logical sense to the user. It has to do with the relationship between the spatial or functional layout of components. These are the four types of constraints that can be utilized by designers to make their UI more beneficial and helpful for the user.]]></description>
+            <content:encoded><![CDATA[<p>In this chapter, one important piece of information in discusses is the four different kinds of constraints. Physical constraints limit the number of potential actions. They are most effective when they are easy to see and interpret because you want to prevent the user from even attempting the action. Cultural constraints are defined by the user’s culture. They determine what actions make sense given their cultural experience. Culture is constantly evolving, and so are constraints. Semantic constraints are defined by the meaning of the situation controlling potential actions. They rely on users’ knowledge of the world. These constraints can also change with time. Logical constraints are defined by what makes logical sense to the user. It has to do with the relationship between the spatial or functional layout of components. These are the four types of constraints that can be utilized by designers to make their UI more beneficial and helpful for the user.</p>
+<img src="https://23clhelle.github.io/claire-ui-portfolio/assets/images/LegoMotorcycle-137ba0490704c08bf637933456ad84cd.jpg">
+<p><br>
+<!-- -->Norman, Donald A. The Design of Everyday Things. The MIT Press, 2013.</p>]]></content:encoded>
+            <category>FreeForm</category>
+        </item>
+        <item>
+            <title><![CDATA[Inclusive Design 1 Blog Post]]></title>
+            <link>https://23clhelle.github.io/claire-ui-portfolio/blog/inclusive-design-1-blog-post</link>
+            <guid>https://23clhelle.github.io/claire-ui-portfolio/blog/inclusive-design-1-blog-post</guid>
+            <pubDate>Tue, 29 Oct 2024 11:15:00 GMT</pubDate>
+            <description><![CDATA[This chapter brings awareness to accessibility on websites. Krug has a three-second accessibility test that he uses to quickly tell if a website is accessible. This test is simple, hence the name, and simply involves looking if you can make to site's text bigger. Having adjustable text size is a fairly simple implementation that greatly benefits users who need it.]]></description>
+            <content:encoded><![CDATA[<p>This chapter brings awareness to accessibility on websites. Krug has a three-second accessibility test that he uses to quickly tell if a website is accessible. This test is simple, hence the name, and simply involves looking if you can make to site's text bigger. Having adjustable text size is a fairly simple implementation that greatly benefits users who need it.</p>
+<p>Before:</p>
+<img src="https://23clhelle.github.io/claire-ui-portfolio/assets/images/TeachFrontText1-7157a3e86666aac8cff0ffe31653f883.png">
+<p><br>
+<!-- -->After:</p>
+<img src="https://23clhelle.github.io/claire-ui-portfolio/assets/images/TeachFrontText2-0a48c07792e198d3eb5df401594c6b77.png">
+<p><br>
+<!-- -->TeachFront is a great example of an interface that passes this test. TeachFront has the text icon in an obvious location that is consistent throughout all pages. The text growth feature works great and applies to all of the text on the website as you can see in the before and after pictures.</p>
+<p>Krug, Steve. Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability. 3rd ed., New Riders, 2013.</p>]]></content:encoded>
+            <category>DirectedAnalysis</category>
+        </item>
         <item>
             <title><![CDATA[User Testing 101 Blog Post]]></title>
             <link>https://23clhelle.github.io/claire-ui-portfolio/blog/user-testing-101-blog-post</link>
