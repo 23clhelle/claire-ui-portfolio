@@ -7,7 +7,7 @@ slug: /projects
 
 
 <iframe 
-    src="/UIUX Resume.pdf" 
+    src="static/UIUX_Resume.pdf" 
     width="500" 
     height="600">
 </iframe>
