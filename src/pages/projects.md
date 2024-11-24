@@ -5,15 +5,6 @@ slug: /projects
 
 # Projects
 
-
-<iframe 
-    src="static/UIUX_Resume.pdf" 
-    width="500" 
-    height="600">
-</iframe>
-
-
-
 ## Design System
 <iframe 
           style={{ border: '1px solid rgba(0, 0, 0, 0.1)' }} 
