@@ -5,6 +5,10 @@ slug: /projects
 
 # Projects
 
+## Sketches
+<img src={require('/static/img/Sketches1.png').default}/> 
+<img src={require('/static/img/Sketches2.png').default}/> 
+
 ## Design System
 <iframe 
           style={{ border: '1px solid rgba(0, 0, 0, 0.1)' }} 
