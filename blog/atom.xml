@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://23clhelle.github.io/claire-ui-portfolio/blog</id>
     <title>Claire's UI Portfolio Blog</title>
-    <updated>2024-11-11T19:45:00.000Z</updated>
+    <updated>2024-12-02T18:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://23clhelle.github.io/claire-ui-portfolio/blog"/>
     <subtitle>Claire's UI Portfolio Blog</subtitle>
     <icon>https://23clhelle.github.io/claire-ui-portfolio/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Design Interviews Blog Post]]></title>
+        <id>https://23clhelle.github.io/claire-ui-portfolio/blog/design-intervies-blog-post</id>
+        <link href="https://23clhelle.github.io/claire-ui-portfolio/blog/design-intervies-blog-post"/>
+        <updated>2024-12-02T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What really captured me throughout watching these videos was just the general information provided about interviews. Interviews are very scary for me and I get really anxious when doing them, so I was excited to get incite about them. While the UI specific information is nice to know as well, there was a good amount of information that I can apply to any job interview. For instance, they provided tips for technical questions, but those types of questions aren't exclusive to UI. So, a lot of this information I will be able to apply to any job that I interview for.]]></summary>
+        <content type="html"><![CDATA[<p>What really captured me throughout watching these videos was just the general information provided about interviews. Interviews are very scary for me and I get really anxious when doing them, so I was excited to get incite about them. While the UI specific information is nice to know as well, there was a good amount of information that I can apply to any job interview. For instance, they provided tips for technical questions, but those types of questions aren't exclusive to UI. So, a lot of this information I will be able to apply to any job that I interview for.</p>
+<img src="https://23clhelle.github.io/claire-ui-portfolio/assets/images/interview-45426d140b8b4d4929b77613466c5bab.jpg">
+<p><a href="https://www.youtube.com/watch?v=j07li1MUIa4" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=j07li1MUIa4</a>
+<a href="https://www.youtube.com/watch?v=vu3xcQm7cEo" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=vu3xcQm7cEo</a></p>]]></content>
+        <category label="FreeForm" term="FreeForm"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UIUN Negotiation Blog Post]]></title>
         <id>https://23clhelle.github.io/claire-ui-portfolio/blog/uiun-negotiation-blog-post</id>
