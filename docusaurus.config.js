@@ -63,19 +63,15 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "About Me",
             items: [{ label: "About Me", to: "/about-me" }],
           },
           {
-            title: "Projects",
             items: [{ label: "Projects", to: "/projects" }],
           },
           {
-            title: "Blog",
             items: [{ label: "Blog", to: "/blog" }],
           },
           {
-            title: "Community",
             items: [
               {
                 label: "GitHub",

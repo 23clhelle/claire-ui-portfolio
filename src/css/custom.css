@@ -49,7 +49,7 @@ img.homepage-img {
 
 .homepage-title {
   display: flex;
-  gap: 20px;
+  gap: 200px;
   align-items: center;
 }
 
@@ -58,5 +58,18 @@ img.homepage-img {
   flex-direction: column;
 }
 
+footer {
+  margin-top: 0;
+  padding-top: 0;
+}
 
+
+.main-wrapper {
+  background-color: #2e5f85;
+  display: flex;
+  flex-direction: column; /* Stacks items vertically */
+  justify-content: center; /* Centers content vertically */
+  align-items: center; /* Centers content horizontally */
+  min-height: 100vh; /* Ensures the box fills the full height of the viewport */
+}
 
