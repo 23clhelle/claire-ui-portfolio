@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://23clhelle.github.io/claire-ui-portfolio/blog</id>
     <title>Claire's UI Portfolio Blog</title>
-    <updated>2024-12-02T18:00:00.000Z</updated>
+    <updated>2024-12-12T12:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://23clhelle.github.io/claire-ui-portfolio/blog"/>
     <subtitle>Claire's UI Portfolio Blog</subtitle>
     <icon>https://23clhelle.github.io/claire-ui-portfolio/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Making of My Portfolio Blog Post]]></title>
+        <id>https://23clhelle.github.io/claire-ui-portfolio/blog/making-of-my-portfolio-blog-post</id>
+        <link href="https://23clhelle.github.io/claire-ui-portfolio/blog/making-of-my-portfolio-blog-post"/>
+        <updated>2024-12-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Clean, intuitive navigation]]></summary>
+        <content type="html"><![CDATA[<ol>
+<li>Clean, intuitive navigation
+<p class="indented-paragraph"> I met this requirement by ensuring that any time the logo in the top left corner was clicked, the user was taken back to the home page. I also included clear button labels in the navigation bar.I met this requirement by ensuring that any time the logo in the top left corner was clicked, the user was taken back to the home page. I also included clear button labels in the navigation bar. </p></li>
+<li>Intentional color choices
+<p class="indented-paragraph">I chose a blue theme for my portfolio because it is one of my favorite colors which I think shows the personalization of my portfolio.</p></li>
+<li>Harmony between affordances and signifiers
+<p class="indented-paragraph">Every button changes when it is hovered over to signify that it is a button. The portfolio afford to be navigated in many different ways without allowing the user to get lost due to the low depth of the different paths.</p></li>
+<li>Some consideration to accessibility (e.g., use of HTML header tags, alt text, etc.)
+<p class="indented-paragraph">I used a sans-serif font for my portfolio for accessibility when it comes to reading, and I have large headers on the pages.</p></li>
+<li>Usability elements to help make content easier to digest (bulleted lists, pagination, expandable <p class="indented-paragraph">blocks, headings, etc.)
+I have a side navigation bar for my blogs and my project so that users can easily find what they are looking for. There are also bullets on my resume to make it easier to digest.</p></li>
+<li>Evidence of evolution (I started there, but I learned some stuff, and now I'm here)
+<p class="indented-paragraph">On my project page, users are walked through the evolution of SreamStats. Also, by reading the blog entries, users can tell what I’ve learned along the way.</p></li>
+<li>Proper attribution of others' work (especially in your reading reflections)
+<p class="indented-paragraph">There is a citation for every source I used to create my blog posts, and all images are from a royalty-free website.</p></li>
+<li>Intentional integration of your values
+<p class="indented-paragraph">I wanted a consistent portfolio, so I ensured that was conveyed through headings on each page and blog. I also maintained consistency throughout each page by providing a navigation bar on the side with the different main pieces users could navigate to.</p></li>
+</ol>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Design Interviews Blog Post]]></title>
         <id>https://23clhelle.github.io/claire-ui-portfolio/blog/design-intervies-blog-post</id>
