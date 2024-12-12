@@ -5,8 +5,10 @@ slug: /projects
 
 # Projects
 ## StreamStats
+<p class="indented-paragraph">
+
 ### Design Narrative
-SteamStats. A helpful website that connects to users’ streaming services to provide usage and cost statistics. I decided to create this interface because I am a very logical person who loves to work with numbers. Streaming services stuck out to me because there has been a strong switch from cable to streaming applications. However, with time, the savings that streaming services originally provided have faded. Prices have increased for these subscriptions, and many people choose to buy more than one service so that they can access a larger library of shows. As a Data Science major, I was excited to incorporate visuals of the data collected.
+SteamStats. A helpful website that connects to users’ streaming services to provide usage and cost statistics. I decided to create this interface because I am a very logical person who loves to work with numbers. Streaming services stuck out to me because there has been a strong switch from cable to streaming applications. However, with time, the savings that streaming services originally provided have faded. Prices have increased for these subscriptions, and many people choose to buy more than one service so that they can access a larger library of shows. As a Data Science major, I was excited to incorporate visuals of the data collected. I'm also a very logical person, so in combination with major, I knew a logical interface would be perfect for me to design.
 
 To determine if this was actually an interface that people desired, I interviewed a couple of subjects on their feelings toward their streaming services. What I found was that people have MANY frustrations with the methods they use to watch TV. My two interviewees had at least five subscriptions at the time of the interview and they were overwhelmed with trying to keep track of all of them. Another thing I found was that for families with young children, it would be helpful to track how much television they are watching. 
 
@@ -14,7 +16,7 @@ After these initial interviews, I knew StreamStats would be a beneficial resourc
 
 Finally, I came up with some values that I wanted for the website. I chose clarity and consistency as my two main values. Clarity is important for my UI because the goal of my interface is to make a busy user’s life easier. I don’t want them to have to spend extra time and brain power trying to decipher my interface. Consistency is important for my UI because, like clarity, I don’t want to cause any confusion for my users. By having a consistent format throughout the different pages of my interface, users can easily understand what page they are on and what the consistent buttons do.
 
-So, when it was time to actually begin designing, I started with some physical sketches. These are the original ideas I had come up with for the main screens that users would find beneficial. 
+So, when it was time to actually begin designing, I started with some sketches. These are the original ideas I had come up with for the main screens that users would find beneficial. 
 
 ### Sketches
 <img src={require('/static/img/Sketches1.png').default}/> 
@@ -41,7 +43,9 @@ From the beginning of my electronic mockups, I knew that I wanted StreamStats to
 
 When the original prototype is opened in preview mode, it starts on the log-in screen. Users can then click the log-in button to navigate to the home page. From the home page, there are two options: users can select the usage button and navigate to the usage page, or they can select the cost button and navigate to the cost page. From either of those pages, users can simply click the logo in the top left corner to get back to the home page. 
 
-After I finished this prototype, I performed some user tests to get feedback. The first test was with one of my classmates. To navigate through a user test, I first had her examine the Figma prototype however she desired. Then, I asked her to perform a task: _____. I took notes throughout the entire process and found that there were some important changes I needed to make. There was a lot of uncertainty about what different things meant, and there wasn’t enough information provided. This was a major flaw because one of the main values of the interface is clarity. So, I made all of the changes that I discovered during the test and got this new prototype:
+After I finished this prototype, I performed some user tests to get feedback. The first test was with one of my classmates. To navigate through a user test, I first had her examine the Figma prototype however she desired. Then, I gave her some background and asked her to perform a task: 
+<p class="indented-paragraph">You need to spend a little less money on your streaming services. However, you don’t just want to cancel a random subscription. Can you please determine what streaming service would make the most sense to remove from your account?</p>
+I took notes throughout the entire process and found that there were some important changes I needed to make. There was a lot of uncertainty about what different things meant, and there wasn’t enough information provided. This was a major flaw because one of the main values of the interface is clarity. So, I made all of the changes that I discovered during the test and got this new prototype:
 
 ### First Prototype
 <iframe 
@@ -51,7 +55,7 @@ After I finished this prototype, I performed some user tests to get feedback. Th
           src="https://embed.figma.com/design/FGe9WsZmnnLnajvzW2KdYq/SSS?node-id=73-74&embed-host=share" allowfullscreen>
           </iframe>
 
-Now that I had an improved version, I was ready to perform more user tests. The next tests I performed followed the same format as the test I did in class, but this time, I used my original interviewees for it. Throughout the two separate tests, I found ten different struggles users had when navigating the interface. However, this time, I did not make changes to fix everything. When it came to clarity, I did make the changes because, once again, that was one of the main values, but I did not make changes to functionality. Specifically, both users wanted to type in the text input boxes, but due to the nature of the prototype, I didn’t feel that this was a necessary change to make. After these tests were complete, I made some more changes and ended with the following prototype:
+Now that I had an improved version, I was ready to perform more user tests. The next tests I performed followed the same format as the test I did in class, but this time, I used my original interviewees for it. Throughout the two separate tests, I found ten different struggles users had when navigating the interface. However, this time, I did not make changes to fix everything. When it came to clarity problems, I did make the changes because, once again, that was one of the main values, but I did not make changes to functionality. Specifically, both users wanted to type in the text input boxes, but due to the nature of the prototype, I didn’t feel that this was a necessary change to make. After these tests were complete, these were the main changes I made: the usage chart to clearly show the current month’s usage, The cost chart to appear on a separate page for enhanced visualization, and back arrows on pages to make navigation even easier. This left me with the following prototype: 
 
 ### Second Prototype
 <iframe 
@@ -71,3 +75,4 @@ Finally, I got feedback from my professor and classmates on my prototype. Just l
           </iframe>
 
 This final version of StreamStats is much improved from the original version. Not only is the purpose clearer, but it also portrays the intended values much better. For clarity, I used obvious signifiers and text explanations on each page to make the purpose obvious. I also used a clear hierarchy of typography to make the level of importance of each piece of information clear. Again, I used different colors and shadows on buttons to show that they are clickable objects. For consistency, I used the same monochromatic color scheme across the entire website so that users wouldn’t think that have navigated to a new website (such as one of their streaming services). I also kept the site’s logo in the top left corner so that when users click it they are always brought to the home page. I also ensured the font family was the same throughout the website to provide a clear, clean look.
+</p>
